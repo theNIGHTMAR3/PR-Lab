@@ -1,2 +1,2 @@
 # PR-Lab
-Labs from PR (Przetwarzenie Rozproszone)
+Labs from PR (Distributed Processing)
