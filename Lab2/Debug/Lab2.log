@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Michał Kuprianowicz\Desktop\Informatyka\PR\Lab2\main.cpp(125,13): warning C4101: "folder": lokalna zmienna, do której nie istnieje odwołanie
+  Lab2.vcxproj -> C:\Users\Michał Kuprianowicz\Desktop\Informatyka\PR\Lab2\Debug\Lab2.exe
