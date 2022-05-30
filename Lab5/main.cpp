@@ -9,6 +9,7 @@
 #include <atlstr.h>
 #include <namedpipeapi.h>
 
+
 //amount of characters
 #define N 1000
 
@@ -202,7 +203,7 @@ void GetFiles(string path,bool isMain)
             si.cb = sizeof(si);
             ZeroMemory(&pi, sizeof(pi));
 
-            string command = "C://Users//micha//Desktop//Informatyka//PR//Lab5//Debug//Lab5.exe " + dir;
+            string command = "C://Temp//Lab5//Debug//Lab5.exe " + dir;
             command += " notMain";
             TCHAR commandTChar[200];
             _tcscpy_s(commandTChar, CA2T(command.c_str()));
